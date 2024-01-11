@@ -1,7 +1,7 @@
 # So Long - A 2D Maze Adventure Game 🎮
 [ Project Completion Date : 2022 - 02 - 10 ]
 
-## Project Overview
+## Project Overview 📋
 Join the adventure in “So Long,” my own take on a 2D maze exploration game developed in C. In this project, players take on the role of a character whose mission is to gather items throughout the maze and safely reach the exit, all while avoiding enemy patrols that add an extra layer of challenge.
 
 ## Game Mechanics
@@ -22,5 +22,5 @@ Join the adventure in “So Long,” my own take on a 2D maze exploration game d
 - **Sprite Animation:** Visual appeal is heightened with sprite animations, bringing the game’s characters and enemies to life. 🎭
 - **On-Screen Movements Counter:** The number of movements is displayed directly in the game window, making for an immersive interface. 🔄
 
-## Closing Thoughts
+## Project Conclusion 🎓
 “So Long” is a showcase of my skills in creating engaging gameplay experiences, clever level design, and mastering the fundamental aspects of C’s graphical programming capabilities. This game was developed with the dual goals of challenging the player and demonstrating the potent capability of simple, well-executed code. 🚀🕹️
