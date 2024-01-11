@@ -1,0 +1,33 @@
+/* XPM */
+static char *result[] = {
+/* columns rows colors chars-per-pixel */
+"192 20 7 1 ",
+"  c #72751B",
+". c #7F8226",
+"X c #787B21",
+"o c #656C17",
+"O c #B3B0A9",
+"+ c #A2814F",
+"@ c #636917",
+/* pixels */
+"                                                                                                                                                                                                ",
+"                                                                                                                                                                                                ",
+"                                                                                                                                                                                                ",
+"                                                                                                                                                                                                ",
+"                                                                                                                                                                                                ",
+"                                                                                        .XX                                                                                                     ",
+"                                                                                         XXX                                                                                                    ",
+"                                        .                                                 oo                                                                            .                       ",
+"                                        XX                                                                                                                              XX                      ",
+"                                    ..X oX                                                                                                                          ..X oX                      ",
+"                                     .XXoo ..X                                                                                                                       .XXoo ..X                  ",
+"                                  X. oXX oXX.                                                                                                                     X. oXX oXX.                   ",
+"                                   .XXoX XXX                                                                                                                       .XXoX XXX                    ",
+"                                   oXX ooXXo                               .                                                                                       oXX ooXXo                    ",
+"                                    oX  ooo                         X..   .                                                                    OO                   oX  ooo                     ",
+"                                     o XX                            .XX ..                                 XX                                O++O                   o XX                       ",
+"                                       .o                            oXX XX                                .X                                 @OO@                     .o                       ",
+"                                       o                              oXoXo                               XXo                                  @@                      o                        ",
+"                                                                       o o                            ..X XXo                                                                           X..     ",
+"                                                                                                       .XXoXo                                                                          XX.      "
+};
