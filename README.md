@@ -7,7 +7,7 @@
 Join the adventure in “So Long,” my own take on a 2D maze exploration game developed in C. In this project, the player take on the role of a character whose mission is to gather items throughout the maze and safely reach the exit, all while avoiding enemy patrols that add an extra layer of challenge.
 
 ## Game Mechanics
-- **Player Control:** Navigate your character with the W, A, S, and D keys, ensuring each move avoids the danger of walls.
+- **Player Control:** Navigate your character with the W, A, S, and D keys, ensuring each move avoids the collision of walls.
 - **Interactive Gameplay:** With every move, the total count is displayed in the shell, keeping track of the player’s progress.
 - **Graphical View:** Designed with a top-down perspective, the game conveys a comprehensive view of the environment. 🌍
 
